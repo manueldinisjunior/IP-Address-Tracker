@@ -1,6 +1,5 @@
 ![IP Address Tracker](https://github.com/catherineisonline/ip-address-tracker-frontendmentor/blob/main/images/project-preview.png?raw=true)
 
-
 <h1 align="center">IP Address Tracker</h1>
 
 <div align="center">
@@ -12,9 +11,6 @@
 Solution for a challenge from [frontendmentor.io](https://www.frontendmentor.io/)
 
 </div>
-
-
-
 
 ## About The Project
 
@@ -30,9 +26,6 @@ Users should be able to:
 
 
 I do not have access to the Figma sketch so the design is not pixel perfect.
-
-
-
 
 ## Built with 
 
@@ -58,8 +51,6 @@ For some reason the gitignore is havin'g issues so I decided to keep the API key
 4. [Leaflet](https://geo.ipify.org/) - an open-source JavaScript library for mobile-friendly interactive maps
 5. [Free IP Geo Location](https://ipgeolocation.io/) - provides a free IP gelocation API for software developers I am currently using. This is a temporary replacement
 
-
-
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my [solution](https://www.frontendmentor.io/solutions/ip-address-tracker-02_5ChONI). It definitely helps to find new ways to code and find easier solutions! 
+A big thank you to anyone providing feedback on my [solution](https://www.frontendmentor.io/solutions/ip-address-tracker-cOIHM9TrjM). It definitely helps to find new ways to code and find easier solutions! 
